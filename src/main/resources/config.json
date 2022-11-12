@@ -1,11 +1,12 @@
 {
   "appleTaskConfig": {
     "cronExpressions": "*/10 * * * * ?",
+    "country": "CN",
+    "location": "广东 深圳 南山区",
     "deviceCodes": [
       "MQ0D3CH/A",
       "MPXR3CH/A"
     ],
-    "location": "广东 深圳 南山区",
     "storeWhiteList": [
       "益田假日",
       "珠江新城",
