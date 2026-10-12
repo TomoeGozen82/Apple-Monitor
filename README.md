@@ -164,14 +164,4 @@ location设置为你所在的区域邮编，例如：01000，deviceCodes设置�
 **Thanks to [@realJustinLee](https://github.com/realJustinLee) for his excellent work in adapting to other countries and
 regions.**
 
-**感谢 JetBrains 对本项目的支持。**
 
-**Thanks to JetBrains for supporting this project.**
-
-[![JetBrains](docs/images/jetbrains.svg)](https://www.jetbrains.com/?from=Apple-Monitor)
-
-## License
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/MoshiCoCo/Apple-Monitor.svg)](https://starchart.cc/MoshiCoCo/Apple-Monitor)
